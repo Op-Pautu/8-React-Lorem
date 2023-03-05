@@ -1,3 +1,3 @@
 # Lorem Ipsum random generator
 
-(https://op-pautu.github.io/8-React-Lorem/)
+[Check it out](https://op-pautu.github.io/8-React-Lorem/)
